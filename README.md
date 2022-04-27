@@ -8,6 +8,7 @@
 - MOBO: Asus Rog X-470
 - RAM: 32GB 3200MHZ Corsair Vengance
 - GPU: Red Devil Rx 6900XT
+- Wi-Fi: Alfa Network AWUS 1900
 - SSD: 1TB Sabrent NVME
 - HDD: Lots
 - PSU: 1300w EVGA Supernova G2
